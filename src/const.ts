@@ -12,10 +12,10 @@ export { dayjs }
 export const WEDDING_DATE = dayjs.tz("2025-12-27 12:30", "Asia/Seoul")
 export const HOLIDAYS = [25];
 
-export const LOCATION = "파티움하우스 수원";
+export const LOCATION = "파티움하우스 수원 그레스켈리홀(2F)";
 export const LOCATION_ADDRESS = "경기 수원시 팔달구 효원로 289"
 
-export const SHARE_ADDRESS = LOCATION
+export const SHARE_ADDRESS = "파티움하우스 수원";
 export const SHARE_ADDRESS_TITLE = LOCATION
 
 export const WEDDING_HALL_POSITION = [127.033406, 37.261632]
