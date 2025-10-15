@@ -28,7 +28,7 @@ export const ShareButton = () => {
             address: SHARE_ADDRESS,
             addressTitle: SHARE_ADDRESS_TITLE,
             content: {
-              title: `${GROOM_FULLNAME} ❤️ ${BRIDE_FULLNAME}의 결혼 / 파티움하우스 수원`,
+              title: `${GROOM_FULLNAME} ❤️ ${BRIDE_FULLNAME} 우리 결혼합니다`,
               description:
                 WEDDING_DATE.format("YYYY년 MMMM D일 dddd A h시 mm분") +
                 "\n" +
